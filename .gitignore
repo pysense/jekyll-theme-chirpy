@@ -3,6 +3,7 @@
 !.git*
 !.editorconfig
 !.nojekyll
+!.travis.yml
 
 # bundler cache
 _site
@@ -15,3 +16,9 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+
+# VNote
+_v_recycle_bin
+vx.json
+vx_notebook/
+vx_recycle_bin/
