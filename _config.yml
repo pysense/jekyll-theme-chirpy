@@ -43,12 +43,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Pysense
+  name: (((1057)))
   email: pysense@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/pysense       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -86,7 +86,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://1057.pub/ghcos/images/202108041730770.png
+avatar: http://1057.pub/ghcos/images/avatar01.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
